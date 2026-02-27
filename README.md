@@ -24,7 +24,7 @@ A modular Python project that classifies temperature values into categories such
 ---
 
 ### 📊 **Pandas Data Exploration**  
-📄 **File:** `Pandas_data_exploration.ipynb`  
+📄 **File:** Pandas_data_exploration.ipynb  
 A full exploratory data analysis (EDA) workflow using pandas and matplotlib.  
 **What this project shows:**  
 - Data cleaning and preprocessing  
