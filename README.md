@@ -13,7 +13,7 @@ This repository highlights hands‑on projects in **Python**, **pandas**, **NumP
 ## 📚 **Project Gallery**
 
 ### 🔥 **Exercise 8 — Model Building & Classification**  
-📄 **File:** `Exercise_8_Model_Building.ipynb`  
+📄 **File:** [Exercise_8_Model_Building.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Exercise_8_Model_Building.ipynb)
 A modular Python project that classifies temperature values into categories such as *cold*, *warm*, and *hot*.  
 **What this project shows:**  
 - Clean, reusable function design  
@@ -24,7 +24,7 @@ A modular Python project that classifies temperature values into categories such
 ---
 
 ### 📊 **Pandas Data Exploration**  
-📄 **File:** Pandas_data_exploration.ipynb  
+📄 **File:** [Pandas_data_exploration.ipynb]  (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Pandas_data_exploration.ipynb)
 A full exploratory data analysis (EDA) workflow using pandas and matplotlib.  
 **What this project shows:**  
 - Data cleaning and preprocessing  
@@ -36,7 +36,7 @@ A full exploratory data analysis (EDA) workflow using pandas and matplotlib.
 ---
 
 ### 🎨 **Data Visualization Project**  
-📄 **File:** `Visualization.ipynb`  
+📄 **File:** [Visualization.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Visualization.ipynb)
 A notebook dedicated to building clear, insightful visualizations.  
 **What this project shows:**  
 - Matplotlib & seaborn plotting  
