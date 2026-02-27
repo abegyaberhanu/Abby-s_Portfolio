@@ -1,28 +1,63 @@
-# Data Science Portfolio
+# 🌟 **Abegya Berhanu — Data Science Portfolio**
 
-Welcome to my data science portfolio! This site showcases hands-on projects in Python, SQL, and data visualization, built using tools like Google Colab, Power BI, and Tableau.
-
-## 📊 Featured Projects
-
-- **Model Building & Classification**
-  - [Exercise_8_Model_Building.ipynb](https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Exercise_8_Model_Building.ipynb)
-  - Built modular Python functions for temperature classification and automated data processing.
-
-- **Exploratory Data Analysis**
-  - [Pandas_data_exploration.ipynb](https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Pandas_data_exploration.ipynb)
-  - Cleaned and visualized datasets using pandas and matplotlib to uncover trends and anomalies.
-
-- **Data Visualization**
-  - [Visualization.ipynb](https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Visualization.ipynb)
-  - Created interactive charts and dashboards to communicate insights effectively.
-
-## 🛠 Tools & Technologies
-
-- Python (pandas, NumPy, matplotlib, scikit-learn)
-- SQL (Joins, Aggregations, ETL)
-- Power BI & Tableau
-- Google Colab, Jupyter Notebook, GitHub
+Welcome to my data science portfolio!  
+This repository highlights hands‑on projects in **Python**, **pandas**, **NumPy**, **scikit‑learn**, and **data visualization**, developed in **Google Colab** and focused on real analytical workflows.
 
 ---
 
-Feel free to explore the projects and reach out with feedback or collaboration ideas!
+## 🚀 **Live Portfolio Website**
+
+
+---
+
+## 📚 **Project Gallery**
+
+### 🔥 **Exercise 8 — Model Building & Classification**  
+📄 **File:** `Exercise_8_Model_Building.ipynb`  
+A modular Python project that classifies temperature values into categories such as *cold*, *warm*, and *hot*.  
+**What this project shows:**  
+- Clean, reusable function design  
+- Conditional logic for classification  
+- Automated data processing  
+- Beginner‑friendly machine learning thinking  
+
+---
+
+### 📊 **Pandas Data Exploration**  
+📄 **File:** `Pandas_data_exploration.ipynb`  
+A full exploratory data analysis (EDA) workflow using pandas and matplotlib.  
+**What this project shows:**  
+- Data cleaning and preprocessing  
+- Handling missing values  
+- Summary statistics  
+- Visualizing distributions and trends  
+- Identifying patterns and anomalies  
+
+---
+
+### 🎨 **Data Visualization Project**  
+📄 **File:** `Visualization.ipynb`  
+A notebook dedicated to building clear, insightful visualizations.  
+**What this project shows:**  
+- Matplotlib & seaborn plotting  
+- Bar charts, histograms, scatterplots, line charts  
+- Styling and customizing visuals  
+- Communicating insights effectively  
+
+---
+
+## 🛠️ **Skills & Tools**
+
+| Category | Technologies |
+|---------|--------------|
+| **Programming** | Python, pandas, NumPy |
+| **Visualization** | matplotlib, seaborn, Tableau, Power BI |
+| **Data Workflows** | EDA, data cleaning, feature exploration |
+| **Platforms** | Google Colab, Jupyter Notebook, GitHub |
+| **Other** | Modular code design, documentation, reproducible workflows |
+
+---
+
+## 📬 **Contact**
+If you'd like to connect or discuss data science opportunities, feel free to reach out!
+
