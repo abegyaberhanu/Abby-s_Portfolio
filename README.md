@@ -9,33 +9,30 @@ This repository highlights hands‑on projects in **Python**, **pandas**, **NumP
 
 ### 🔥 **Exercise 8 — Model Building & Classification**  
 📄 **File:** [Exercise_8_Model_Building.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Exercise_8_Model_Building.ipynb)
-A modular Python project that classifies temperature values into categories such as *cold*, *warm*, and *hot*.  
+A Python project that classifies customer retention based on call center data.
 **What this project shows:**  
-- Clean, reusable function design  
-- Conditional logic for classification  
-- Automated data processing  
-- Beginner‑friendly machine learning thinking  
+- Understanding of k-classification 
+- Beginner‑friendly machine learning thinking
+- Python libraries used to build classification models 
 
 ---
 
 ### 📊 **Pandas Data Exploration**  
 📄 **File:** [Pandas_data_exploration.ipynb]  (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Pandas_data_exploration.ipynb)
-A full exploratory data analysis (EDA) workflow using pandas and matplotlib.  
+A pandasexploratory data analysis (EDA) workflow using pandas and matplotlib.  
 **What this project shows:**  
 - Data cleaning and preprocessing  
 - Handling missing values  
 - Summary statistics  
-- Visualizing distributions and trends  
-- Identifying patterns and anomalies  
 
 ---
 
 ### 🎨 **Data Visualization Project**  
 📄 **File:** [Visualization.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Visualization.ipynb)
-A notebook dedicated to building clear, insightful visualizations.  
+A quick project that populates variables and places restrictions to condense data into the needed values 
 **What this project shows:**  
-- Matplotlib & seaborn plotting  
-- Bar charts, histograms, scatterplots, line charts  
+- Matplotlib plotting  
+- Scatterplots, line charts  
 - Styling and customizing visuals  
 - Communicating insights effectively  
 
@@ -46,9 +43,9 @@ A notebook dedicated to building clear, insightful visualizations.
 | Category | Technologies |
 |---------|--------------|
 | **Programming** | Python, pandas, NumPy |
-| **Visualization** | matplotlib, seaborn, Tableau, Power BI |
-| **Data Workflows** | EDA, data cleaning, feature exploration |
-| **Platforms** | Google Colab, Jupyter Notebook, GitHub |
+| **Visualization** | matplotlib, Tableau, Power BI |
+| **Data Workflows** | EDA, data cleaning, feature exploration, ETL |
+| **Platforms** | Google Colab, GitHub |
 | **Other** | Modular code design, documentation, reproducible workflows |
 
 ---
