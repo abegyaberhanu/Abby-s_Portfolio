@@ -49,7 +49,6 @@ A quick project that populates variables and places restrictions to condense dat
 | **Other** | Modular code design, documentation, reproducible workflows |
 
 ---
-
 ## 📬 **Contact**
 If you'd like to connect or discuss data science opportunities, feel free to reach out!
-
+Abegyaberhanu@gmail.com
