@@ -7,7 +7,7 @@ This repository highlights hands‑on projects in **Python**, **pandas**, **NumP
 
 ## 📚 **Project Gallery**
 
-### 🔥 **Exercise 8 — Model Building & Classification**  
+### **Exercise 8 — Model Building & Classification**  
 📄 **File:** [Exercise_8_Model_Building.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Exercise_8_Model_Building.ipynb)
 A Python project that classifies customer retention based on call center data.
 **What this project shows:**  
@@ -17,7 +17,7 @@ A Python project that classifies customer retention based on call center data.
 
 ---
 
-### 📊 **Pandas Data Exploration**  
+### **Pandas Data Exploration**  
 📄 **File:** [Pandas_data_exploration.ipynb]  (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Pandas_data_exploration.ipynb)
 A pandasexploratory data analysis (EDA) workflow using pandas and matplotlib.  
 **What this project shows:**  
@@ -27,7 +27,7 @@ A pandasexploratory data analysis (EDA) workflow using pandas and matplotlib.
 
 ---
 
-### 🎨 **Data Visualization Project**  
+### **Data Visualization Project**  
 📄 **File:** [Visualization.ipynb] (https://github.com/abegyaberhanu/Abby-s_Portfolio/blob/main/Visualization.ipynb)
 A quick project that populates variables and places restrictions to condense data into the needed values 
 **What this project shows:**  
