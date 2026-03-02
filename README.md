@@ -5,11 +5,6 @@ This repository highlights hands‑on projects in **Python**, **pandas**, **NumP
 
 ---
 
-## 🚀 **Live Portfolio Website**
-
-
----
-
 ## 📚 **Project Gallery**
 
 ### 🔥 **Exercise 8 — Model Building & Classification**  
